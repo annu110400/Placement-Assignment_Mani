@@ -1,0 +1,129 @@
+body{
+    font-size: 16px;
+}
+section{
+    width: 1500px;
+    max-width: 90%;
+    margin: 0px auto;
+}
+#container{
+    width: 1400px;
+}
+.box{
+    border: 3px solid black; 
+    max-width: 50px;
+    max-height: 50px; 
+    padding: 10px;
+    line-height: 30px; 
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center; 
+    font-size: 1.63em;
+}
+
+
+
+#pane{
+    float: left; 
+    
+}
+
+#panelOne div{
+    background-color: #ff9999;
+}
+#panelOne{
+    float: left; 
+    
+}
+
+#panelTwo{
+    float: left; 
+    position: relative; 
+    top: 75px;
+    margin-top: 6px; 
+}
+#panelTwo div{
+    background-color: #ff9999;
+}
+
+.panelTwoThree{
+    float: left; 
+    position: relative; 
+    top: 400px; 
+    margin-top: 15.5px; 
+}
+
+.panelTwoThree div{
+   
+    max-width: 50px;
+    max-height: 50px; 
+    padding: 10px;
+    line-height: 30px; 
+    margin-left: 5px;
+    margin-top: 10px;
+    text-align: center; 
+    font-size: 1.63em;
+
+}
+.panelThree{
+    float: left; 
+    position: relative; 
+    top: 225px; 
+    margin-top: 15.5px; 
+}
+
+.panelThree div{
+    background-color: #99ccff;
+}
+
+.panelFour{
+    float: left; 
+    position: relative; 
+    top: 75px; 
+    margin-top: 6px;
+}
+
+.panelFour div{
+    background-color: #fdff8c;
+}
+
+#panelFive{
+    float: left; 
+}
+
+#panelFive div{
+    background-color: #fdff8c;
+}
+
+#lowerContainer{
+    float: left; 
+    margin-top: 50px;
+    margin-left: 120px;
+}
+.panelbottom{
+    float: left; 
+    position: relative; 
+    top: 5px; 
+    margin-top: 15.5px; 
+}
+.panelbottom div{
+   
+    max-width: 50px;
+    max-height: 50px; 
+    padding: 10px;
+    line-height: 30px; 
+    margin-left: 5px;
+    margin-top: 10px;
+    text-align: center; 
+    font-size: 1.63em;
+
+}
+
+
+.bottom{
+    float: left; 
+}
+
+.bottom div{
+    background-color: #9bff99;
+}
